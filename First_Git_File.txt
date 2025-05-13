@@ -1,3 +1,4 @@
 Hello Everyone
 
-We are learning basic git commands
+We are learning basic git commands.
+Thank    you..!
